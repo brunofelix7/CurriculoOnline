@@ -1,0 +1,209 @@
+/*Difinição do background da página*/
+body{
+    background: url(../imagens/background.jpg) no-repeat top center;
+    background-size: cover;
+    margin: 35px 25px 25px 25px;
+}
+
+/*Nome*/
+div.pessoal h1{
+    color: white;
+    font-family: Arial;
+    font-size: 36px;
+    font-style: oblique;
+    margin-bottom: 30px;
+    line-height: 5%;
+}
+
+/*área/Função*/
+div.pessoal h3{
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+/*Altera a cor, fonte, espaçamento de linha e posição dos parágrafos dentro da div 'pessoal'*/
+div.pessoal p{
+    line-height: 50%;
+    margin-left: 250px;
+    font-size: 13px;
+    color: white;
+    font-family: Arial; 
+}
+
+/*Foto do Perfil*/
+div.foto img{
+    width: 230px;
+    height: 250px;
+    margin-top: -260px;
+}
+
+/*Altera o tamanho e ajuste do logo Facebook*/
+div.facebook img{
+    width: 25px; 
+    margin-bottom: -10px;
+    margin-left: 250px;
+}
+
+/*Altera fonte e ajusta o link do Facebook*/
+div.facebook article{
+    color: white;
+    font-family: Arial;
+    font-size: 13px;
+    margin-top: -15px;
+    margin-left: 285px;
+}
+
+/*Elimina o sublinhado abaixo do link do Facebook*/
+div.facebook a{
+    text-decoration: none;
+}
+
+/*Altera o tamanho e ajuste do logo Twitter*/
+div.twitter img{
+    width: 25px;; 
+    margin-bottom: -30px;
+    margin-left: 250px;
+}
+
+/*Altera fonte e ajusta o link do Twitter*/
+div.twitter article{
+    color: white;
+    font-family: Arial;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 285px;
+}
+
+/*Elimina o sublinhado abaixo do link do Twitter*/
+div.twitter a{
+    text-decoration: none;
+}
+
+/*Altera o tamanho e ajuste do logo Outlook*/
+div.outlook img{
+    width: 25px; 
+    margin-bottom: -30px;
+    margin-left: 250px;
+}
+
+/*Altera fonte e ajusta o link do Outlook*/
+div.outlook article{
+    color: white;
+    font-family: Arial;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 285px;
+}
+
+/*Altera o tamanho e ajuste do logo Whatsapp*/
+div.whatsapp img{
+    width: 25px; 
+    margin-bottom: -30px;
+    margin-left: 250px;
+}
+
+/*Altera fonte e ajusta o link do Whatsapp*/
+div.whatsapp article{
+    color: white;
+    font-family: Arial;
+    font-size: 13px;
+    margin-top: 7px;
+    margin-left: 285px;
+}
+
+/*Altera a cor, fonte e posição do parágrafo principal dentro da div 'interesses'*/
+div.interesses p.a{
+    color: white;
+    font-size: 20px;
+    font-family: Calibri;
+    margin-top: 70px;
+    margin-bottom: -5px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*Altera a fonte, cor e espaçamento entre linhas*/
+div.interesses p{
+    color: white;
+    font-size: 14px;
+    font-family: Calibri;
+    line-height: 10%;
+}
+
+/*Altera a cor, fonte e posição do parágrafo principal dentro da div 'formacao'*/
+div.formacao p.a{
+    color: white;
+    font-size: 20px;
+    font-family: Calibri;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*Altera a fonte, cor e espaçamento entre linhas*/
+div.formacao p{
+    color: white;
+    font-size: 14px;
+    font-family: Calibri;
+    line-height: 10%;
+}
+
+/*Altera a cor, fonte e posição do parágrafo principal dentro da div 'experiencias'*/
+div.experiencias p.a{
+    color: white;
+    font-size: 20px;
+    font-family: Calibri;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*Altera a fonte, cor e espaçamento entre linhas*/
+div.experiencias p{
+    color: white;
+    font-size: 14px;
+    font-family: Calibri;
+    line-height: 10%;
+}
+
+/*Altera a cor, fonte e posição do parágrafo principal dentro da div 'cursos'*/
+div.cursos p.a{
+    color: white;
+    font-size: 20px;
+    font-family: Calibri;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*Altera a fonte, cor e espaçamento entre linhas*/
+div.cursos p{
+    color: white;
+    font-size: 14px;
+    font-family: Calibri;
+    line-height: 10%;
+}
+
+/*Altera a cor, fonte e posição do parágrafo principal dentro da div 'certificacoes'*/
+div.certificacoes p.a{
+    color: white;
+    font-size: 20px;
+    font-family: Calibri;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+/*Altera a fonte, cor e espaçamento entre linhas*/
+div.certificacoes p{
+    color: white;
+    font-size: 14px;
+    font-family: Calibri;
+    line-height: 10%;
+}
